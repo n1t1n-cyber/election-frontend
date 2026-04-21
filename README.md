@@ -1,3 +1,1 @@
-# Welcome to your Lovable project
-
-TODO: Document your project here
+for backend repo  the: https://github.com/n1t1n-cyber/election-backend
